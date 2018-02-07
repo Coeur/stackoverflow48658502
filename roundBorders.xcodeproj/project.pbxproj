@@ -12,6 +12,7 @@
 		3756D4C5202AFF670082C5EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3756D4C3202AFF670082C5EB /* Main.storyboard */; };
 		3756D4C7202AFF670082C5EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3756D4C6202AFF670082C5EB /* Assets.xcassets */; };
 		3756D4CA202AFF670082C5EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3756D4C8202AFF670082C5EB /* LaunchScreen.storyboard */; };
+		3756D4D2202AFF950082C5EB /* CircularLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3756D4D1202AFF950082C5EB /* CircularLabel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3756D4C6202AFF670082C5EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3756D4C9202AFF670082C5EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3756D4CB202AFF670082C5EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3756D4D1202AFF950082C5EB /* CircularLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircularLabel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				3756D4BF202AFF670082C5EB /* AppDelegate.swift */,
 				3756D4C1202AFF670082C5EB /* ViewController.swift */,
+				3756D4D1202AFF950082C5EB /* CircularLabel.swift */,
 				3756D4C3202AFF670082C5EB /* Main.storyboard */,
 				3756D4C6202AFF670082C5EB /* Assets.xcassets */,
 				3756D4C8202AFF670082C5EB /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				3756D4C2202AFF670082C5EB /* ViewController.swift in Sources */,
 				3756D4C0202AFF670082C5EB /* AppDelegate.swift in Sources */,
+				3756D4D2202AFF950082C5EB /* CircularLabel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
